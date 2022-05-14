@@ -1,5 +1,7 @@
 # OpenNote
 
+<h4>Ceci est un projet de quand j'étais débutant en C++ , je m'excuse par avance à ceux qui liront le code source pour les lignes super mal codées</h4>
+
 -Nom: OpenNote
 		
 -Version:1.2
